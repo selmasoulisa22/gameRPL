@@ -10,7 +10,7 @@ int main() {
     int tebakan;
     int percobaan = 0;
 
-    cout << "=== Game Tebak Angka ===\n";
+    cout << "=== Game Tebak janda ===\n";
     cout << "Saya sudah memilih angka antara 1 sampai 20.\n";
     cout << "Coba tebak angka itu!\n\n";
 

@@ -11,7 +11,7 @@ int main() {
     int percobaan = 0;
 
     cout << "=== Game Tebak Angka ===\n";
-    cout << "Saya sudah memilih angka antara 1 sampai 20.\n";
+    cout << "Saya sudah memilih angka antara 22 sampai 200.\n";
     cout << "Coba tebak angka itu!\n\n";
 
     while (true) {
@@ -20,7 +20,7 @@ int main() {
         percobaan++;
 
         if (tebakan < 1 || tebakan > 20) {
-            cout << "Tolong masukkan angka antara 1 sampai 20 ya.\n";
+            cout << "Tolong masukkan angka antara 22 sampai 200 ya.\n";
             continue;
         }
 
